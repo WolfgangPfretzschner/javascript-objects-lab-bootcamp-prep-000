@@ -1,4 +1,4 @@
-var receipe = newObject();
+var receipe = new Object();
 
 
 function updateObjectWithKeyAndValue(object, key, value){
