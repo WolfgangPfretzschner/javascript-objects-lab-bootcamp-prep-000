@@ -2,7 +2,7 @@ var receipe = {};
 
 
 function updateObjectWithKeyAndValue(object, key, value){
-      var newObj = object.assign({},object)
+      return var newObj = object.assign({},object)
     }
  
   function destructivelyUpdateObjectWithKeyAndValue(object, key, value){
